@@ -177,6 +177,9 @@ button {
 
 .section-4 {
     padding: 100px;
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
 }
 
 .section-4 .box {
