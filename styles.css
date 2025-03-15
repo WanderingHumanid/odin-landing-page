@@ -45,6 +45,7 @@ a {
     align-items: center;
     padding: 10px;
     margin-right: 10px;
+    margin-top: 5px;
 }
 
 .logo {
@@ -95,6 +96,7 @@ button {
     color: white;
     font-weight: 600;
     padding: 5px;
+    margin-top: 10px;
 }
 
 .title {
@@ -196,6 +198,18 @@ button {
     border-radius: 5px;
     padding-inline: 25px;
 }
+
 .section-4 button {
     font-size: 16px;
+}
+
+/* Footer: */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    text-align: center;
+    color: #f9faf8;
 }
