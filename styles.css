@@ -144,3 +144,26 @@ button {
 .section-2 .desc {
     text-align: center;
 }
+
+/* Section-3: */
+
+.section-3 {
+    display: flex;
+    flex-direction: column;
+    padding: 150px;
+}
+
+.section-3 .quote {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.section-3 .author {
+    text-align: right;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+    
