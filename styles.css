@@ -123,6 +123,9 @@ button {
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
+    flex-wrap: wrap;
+    gap: 25px;
+    text-align: center;
 }
 
 .section-2 .text {
